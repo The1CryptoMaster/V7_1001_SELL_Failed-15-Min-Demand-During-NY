@@ -1,4 +1,4 @@
-Rentech Fakeallion Fund Decoded.
+--------  Rentech Fakeallion Fund Decoded  -------------
 
 This is years and years of development. 
 Now open sourced.
